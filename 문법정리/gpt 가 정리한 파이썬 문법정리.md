@@ -110,7 +110,7 @@ def show_price():
     print("가격은 1000원입니다")
 ```
 
-### `def` 함수를 사용할떄 def 사용
+###  함수를 사용할떄 `def` 사용
 ### 함수 호출하지 않으면 실행 안됨!
 
 ## ✅ UPPER, 수행평가에 나옴
@@ -120,3 +120,8 @@ s = "Hello"
 s.lower()   # 'hello'
 s.upper()   # 'HELLO'
 ```
+
+#`//` -> 정수로 출력
+
+
+![alt text](image.png)
